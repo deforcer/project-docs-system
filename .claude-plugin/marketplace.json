@@ -1,0 +1,14 @@
+{
+  "name": "project-docs-system",
+  "owner": {
+    "name": "deforcer"
+  },
+  "plugins": [
+    {
+      "name": "project-docs-system",
+      "source": "./",
+      "description": "Система проектной документации для разработки, QA и организационных проектов."
+    }
+  ],
+  "description": "Скилл для создания и сопровождения системы проектной документации."
+}

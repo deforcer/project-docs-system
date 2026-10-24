@@ -1,0 +1,10 @@
+{
+  "name": "project-docs-system",
+  "version": "0.1.0",
+  "description": "Создание и ведение проектной документации с помощью Agent Skills.",
+  "author": {
+    "name": "deforcer"
+  },
+  "homepage": "https://github.com/deforcer/project-docs-system",
+  "repository": "https://github.com/deforcer/project-docs-system"
+}
