@@ -1,0 +1,6 @@
+interface:
+  display_name: "Project Docs System"
+  short_description: "Создание и ведение проектной документации"
+  default_prompt: "Используй $project-docs-system, чтобы адаптировать документацию этого проекта и оформить первую задачу с проверками и контекстом для продолжения."
+policy:
+  allow_implicit_invocation: true
