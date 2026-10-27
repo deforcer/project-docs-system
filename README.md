@@ -106,7 +106,7 @@ claude plugin update project-docs-system@project-docs-system --scope user
 <details>
 <summary>Разработка и проверка</summary>
 
-Версия скилла: **0.1.0**. Исходники: [skills/project-docs-system](skills/project-docs-system/).
+Версия скилла: **0.2.0**. Исходники: [skills/project-docs-system](skills/project-docs-system/).
 
 ```sh
 python3 scripts/validate.py
@@ -114,7 +114,7 @@ claude plugin validate .claude-plugin/plugin.json
 claude plugin validate .claude-plugin/marketplace.json
 ```
 
-Проверки выполняются локально: комплектность, внутренние ссылки, переносимость и манифесты. Поведение ассистента проверяется отдельно: [сценарии](tests/scenarios.md), [результаты](tests/results-v0.1.0.md).
+Проверки выполняются локально: комплектность, внутренние ссылки, переносимость и манифесты. Поведение ассистента проверяется отдельно: [сценарии](tests/scenarios.md), [результаты 0.1.0](tests/results-v0.1.0.md), [результаты 0.2.0](tests/results-v0.2.0.md).
 
 Документация клиентов: [Codex](https://developers.openai.com/codex/skills/), [Claude Code Skills](https://code.claude.com/docs/en/skills), [Claude Code Marketplace](https://code.claude.com/docs/en/plugin-marketplaces).
 
